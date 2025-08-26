@@ -1,0 +1,22 @@
+{
+  "name": "footer_project_isradev",
+  "version": "0.1.0",
+  "description": "This module allows for a dynamic footer to be generated for JS application with an updated year and name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "footer",
+    "devcamp"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Isra-git/isradev-devcamp-footer-js.git"
+  },
+  "author": "isradev",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.30.1"
+  }
+}
